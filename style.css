@@ -5,7 +5,7 @@ body{
     font-family: "Open Sans",arial,sans-serif;
 
 }
-*{
+* {
     -moz-box-sizing: border-box;/*firefox*/
     -webkit-box-sizing:border-box;/*Safari chrome ios*/
 
@@ -26,7 +26,7 @@ p{
 }
 /* container styles*/
 .container{
-    width: 100px;
+    width: 1000px;
     margin: 100px auto;
     background: #fff;
     border:1px transparent;
@@ -57,7 +57,7 @@ p{
 
 .row-image{
     padding:5px;
-    width:300px;
+    width:328px;
   
 }
 
@@ -90,6 +90,12 @@ a{
     background: #fff;
     border:1px transparent;
     border-radius: 20px;
+}
+
+.hero-image{
+width:100%;
+    text-align:center;
+    border-radius:20px 20px 0 0;
 }
 
 
