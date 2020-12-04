@@ -57,7 +57,7 @@ p{
 
 .row-image{
     padding:5px;
-    width:328px;
+  
 }
 
 button{
@@ -90,17 +90,6 @@ a{
     border:1px transparent;
     border-radius: 20px;
 }
-
-
-/* Hero style*/
-
-.hero-image{
-    width: 100%;
-    text-align: center;
-    border-radius: 20px 20px 0 0;
-    
-}
-
 
 
 
