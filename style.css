@@ -53,7 +53,7 @@ p{
 .row{
     display:flex;
     flex-direction: row;
-    flexbox:row;
+  
 }
 
 .row-image{
