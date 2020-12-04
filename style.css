@@ -52,8 +52,8 @@ p{
 
 .row{
     display:flex;
-    flex-direction: column;
-    flexbox:column;
+    flex-direction: row;
+    flexbox:row;
 }
 
 .row-image{
